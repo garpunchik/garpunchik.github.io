@@ -1,0 +1,13 @@
+technical:
+ - title: AWS
+   level: Advanced
+ - title: GCP
+   level: Advanced
+ - title: Azure
+   level: Advanced
+ - title: Kubernetes
+   level: Advanced
+
+soft:
+ - title: Writing
+   level: Intermediate
