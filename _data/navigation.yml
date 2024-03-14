@@ -2,9 +2,9 @@
 main:
   - title: "Home"
     url: "/"
-  - title: "My work"
+  - title: "My Work"
     url: "mywork"
-  - title: "My certificates"
+  - title: "My Certificates"
     url: "mycertificates"
   - title: "About Me"
     url: "/about"  

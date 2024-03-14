@@ -1,0 +1,14 @@
+Alexandr Samoilenko:
+  name        : "Alexandr Samoilenko"
+  bio         : "Let's talk about code! Reach out via the links below."
+  avatar      : "https://placehold.co/400"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:garpunchikgarp@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://garpunchik.github.io"
+    - label: "linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/alexandr-samoilenko-31673a299"      
