@@ -7,7 +7,15 @@ technical:
    level: Advanced
  - title: Kubernetes
    level: Advanced
-
-soft:
- - title: Writing
-   level: Intermediate
+ - title: Terraform
+   level: Advanced
+ - title: Ansible
+   level: Advanced
+ - title: Python
+   level: Advanced
+ - title: Linux
+   level: Advanced
+ - title: CI/CD
+   level: Advanced
+ - title: Git
+   level: Advanced

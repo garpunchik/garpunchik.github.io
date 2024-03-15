@@ -5,6 +5,7 @@
 layout: home
 author: Alexandr Samoilenko 
 author_profile: true
+footer: true
 ---
 ![Devops](/assets/images/download.png){: .avatar}
 #Hi there ! I'm Alexandr Samoilenko
