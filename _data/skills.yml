@@ -6,16 +6,16 @@ technical:
  - title: Azure
    level: Advanced
  - title: Kubernetes
-   level: Advanced
+   level: Expert
  - title: Terraform
-   level: Advanced
+   level: Expert
  - title: Ansible
-   level: Advanced
+   level: Expert
  - title: Python
    level: Advanced
  - title: Linux
-   level: Advanced
+   level: Expert
  - title: CI/CD
-   level: Advanced
+   level: Expert
  - title: Git
    level: Advanced
