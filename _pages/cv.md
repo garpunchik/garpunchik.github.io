@@ -3,6 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+author: Alexandr Samoilenko 
 redirect_from:
   - /resume
 ---
