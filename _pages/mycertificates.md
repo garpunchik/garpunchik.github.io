@@ -1,8 +1,7 @@
 --- 
 title: "My Certificates"
-layout: archive
+layout: mycertificate
 permalink: /mycertificates/
 author: Alexandr Samoilenko 
 author_profile: true
 ---
-Cert
