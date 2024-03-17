@@ -10,3 +10,4 @@ redirect_from:
 
 [PDF](https://garpunchik.github.io/files/Alexandr Samoilenko.pdf)
 <embed src="https://garpunchik.github.io/files/Alexandr Samoilenko.pdf" type="application/pdf" />
+
