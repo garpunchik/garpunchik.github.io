@@ -2,7 +2,6 @@ Alexandr Samoilenko:
   name        : "Alexandr Samoilenko"
   bio         : "Devops Engineer"
   avatar      : "https://placehold.co/400"
-  location: "Delray Beach, FL , USA"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
