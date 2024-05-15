@@ -7,7 +7,7 @@ author_profile: true
 ---
 # Bank CenterCredit JCS
 ## Devops Engineer
-## August 2022 - February 2024
+## August 2022 - September 2023
 
 - Orchestrated the maintenance and enhancement of 10 Kubernetes clusters deployed on OKD, optimizing performance and scalability.
 - Spearheaded infrastructure services upkeep for over 1000 developers, encompassing Gitlab, Nexus, Argo CD, and Vault, ensuring seamless workflows.
